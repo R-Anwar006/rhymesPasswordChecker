@@ -1,5 +1,16 @@
-# RhymesPasswordChecker
+# Password Strength Checker
 
-Hi
+A web app that evaluates password strength in real time and generates secure passwords.
 
-  This is my final project for CISS100. I wanted to make a website that checks your password for it's strength and I used HTML, CSS, and Javascript to build the website. I added factors in such as inclusion of capital letters, lower case letters, symbols, and other factors that determine whether the password is strong or not. I also added in a password generator that generates a password with a mix of all the strengthening factors that make a password strong into a password ready for you to copy.
+## Features
+- Checks for uppercase letters, lowercase letters, numbers, and special characters
+- Provides instant visual feedback on password strength
+- Includes a password generator that creates strong, ready-to-use passwords
+
+## Built With
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+Open `index.html` in any browser — no installation required.
